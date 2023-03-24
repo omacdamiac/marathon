@@ -5,6 +5,10 @@ Desarrollado con [Angular CLI](https://github.com/angular/angular-cli) version 1
 1. clonar repositorio git clone https://github.com/omacdamiac/marathon.git
 2. ingresar a carpeta del proyecto en Terminal o bash  "npm install"
 3. para levantar proyecto "npm start"
+
+#puedes revisar el sistema en esta dirección
+
+[Web Usuario](https://omacdamiac.com/usuarios/)
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
